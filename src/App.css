@@ -1,0 +1,30 @@
+body{
+    background-color:#ffc501;
+}
+
+image{
+
+}
+
+article {
+    display: inline-block;
+    padding: 5px;
+    width: 250px;
+    height: 450px;
+    background-color: white;
+    margin: 10px;
+    text-align: center;
+    text-wrap: normal;
+}
+li {
+    background-color:lightgray;
+    list-style-type: none;
+    }
+
+.button{
+    justify-content: space-evenly;
+    padding-right: 30px;
+    background-color: #218bff;
+
+
+}
